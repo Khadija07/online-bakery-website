@@ -1,4 +1,4 @@
-# 🍰 Online Cake Business Website
+# 🍰 Online Bakery Website
 
 ![alt text](<Screenshot 2025-02-04 at 19.54.35.png>)
 
