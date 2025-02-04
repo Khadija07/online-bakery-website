@@ -8,18 +8,18 @@ const Cake = () => {
   return (
     <div className='cake'>
         <div className="cake-left">
-            <h2>NEW ARRIVALS</h2>
+            <h2>First Bite - Love</h2>
             <div>
                 <div className="hand-icon">
-                    <p>new</p>
+                    <p>Taste</p>
                     <img src={handIcon} alt="" />
                 </div>
-                <p>Cake</p>
-                <p>designs</p>
+                <p>The</p>
+                <p>Delight</p>
             </div>
 
             <div className="cake-latest">
-                <div>Latest</div>
+                <div>Menu</div>
                 <img src={arrow} alt="" />
             </div>
 

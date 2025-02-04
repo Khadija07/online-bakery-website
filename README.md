@@ -1,5 +1,7 @@
 # 🍰 Online Cake Business Website
 
+![alt text](<Screenshot 2025-02-04 at 19.54.35.png>)
+
 ## 📌 Project Overview
 
 This will be a fully responsive online cake business website built with React.js. The website will provide an intuitive and user-friendly interface for customers to browse, customize, and order cakes, pastries, and snacks online. Users can also place customised order for any events.
