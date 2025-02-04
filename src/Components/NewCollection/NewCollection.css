@@ -1,0 +1,24 @@
+.collections{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 25px;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+.collections h1{
+    font-size: 60px;
+    font-weight: 700;
+}
+.collections hr{
+    width: 220px;
+    height: 7px;
+    border-radius: 10px;
+    background: grey;
+}
+.collections-cakes{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 40px;
+    margin-top: 40px;
+}

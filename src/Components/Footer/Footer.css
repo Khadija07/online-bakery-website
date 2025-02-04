@@ -1,0 +1,92 @@
+.footer{
+    display: flex;
+    flex-direction: column;
+    margin: 55px 175px;
+    gap: 20px;
+}
+.footer-top{
+    display: flex;
+    justify-content: space-between;
+}
+.footer-top-left p{
+    font-size: 20px;
+    font-weight: 500;
+    max-width: 400px;
+
+}
+.footer-top-right{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+.footer-email{
+    display: flex;
+    gap: 20px;
+    padding: 10px 20px;
+    border-radius: 40px;
+    background: grey;
+}
+.footer-email img{
+    cursor: pointer;
+    
+}
+.footer-email input{
+    
+    padding-left: 20px;
+    padding-right: 10px;
+    background: transparent;
+   
+    font-size: 15px;
+    border: none;
+    font-family: Outfit;
+}
+.footer-email input::placeholder{
+    color: azure;
+}
+
+.footer-email:hover{
+    border: 2px solid white;
+}
+
+.footer-subscribe{
+    font-size: 15px;
+    padding: 15px 30px;
+    border-radius: 50px;
+    background: linear-gradient(300deg, #FFA500 5%, #E9967A 50%);
+    transition: 0.3s;
+    cursor: pointer;
+}
+.footer-subscribe:hover{
+    transform: scale(1.10);
+    transition: 0.3s;
+}
+.footer-bottom{
+    display: flex;
+    justify-content: space-between;
+
+}
+.bottom-left{
+    display: flex;
+    font-size: 15px;
+}
+.bottom-right{
+    display: flex;
+    gap: 25px;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+
+.icons{
+    display: flex;
+    gap: 35px;
+}
+.footer-icons img{
+    border: 1px solid hsl(330, 80%, 81%);
+    border-radius: 10px;
+    padding: 2px;
+    cursor: pointer;
+    background: white;
+
+
+}
+

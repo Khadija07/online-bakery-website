@@ -1,0 +1,22 @@
+.favourite{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 25px;
+    margin-bottom: 5rem;
+}
+.favourite h1{
+    font-size: 60px;
+    font-weight: 700;
+}
+.favourite hr{
+    width: 220px;
+    height: 7px;
+    border-radius: 10px;
+    background: grey;
+}
+.favourite-item{
+    display: flex;
+    gap: 40px;
+    margin-top: 40px;
+}
